@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="https://psteger.com">Patrick</a>
+# Hi there 👋 I'm <a href="https://psteger.com">Patrick</a>
 
 <div>
 <!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square"> -->
